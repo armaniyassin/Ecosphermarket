@@ -1,1 +1,72 @@
+/* Basic Reset */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Header Styling */
+header {
+    background: #8E868E; /* Header background color */
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo img {
+    height: 50px;
+    width: auto;
+}
+
+nav {
+    flex-grow: 1;
+}
+
+.nav-tabs {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0;
+}
+
+.nav-tabs li {
+    margin-left: 20px;
+}
+
+.nav-tabs a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+    border-radius: 5px;
+}
+
+.nav-tabs a:hover {
+    background: #D1B896; /* Background color on hover */
+    color: #333; /* Text color on hover for better contrast */
+}
+
+/* Main Content Styling */
+main {
+    padding: 20px;
+}
+
+/* Footer Styling */
+footer {
+    background: #8E868E; /* Footer background color */
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
 
