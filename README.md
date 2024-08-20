@@ -4,5 +4,9 @@ Ecospheremarket is a new project aiming to get a more understandable and more ap
 
 Aiming to focus on macroeconomics the GDP of countries, market policies, finnance,  and how it could affect you.
 
+Target audience: investors, newcomers, crypto brokers, e-comerce, entrepeneours
+
+Niche: Economy [Global Market, local economy, finnance, macroeconomics] related news to the economy and how those can afect it [BussniesNews].
+
 
 
